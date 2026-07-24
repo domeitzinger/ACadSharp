@@ -131,6 +131,24 @@ namespace ACadSharp.Prototype1b
 		}
 
 		/// <summary>
+		/// Get the bytes of the file stored by a data field with the given handle.
+		/// If the entry references file blobs, they will be resolved.
+		/// </summary>
+		/// <param name="handle">The handle of the data entry to resolve</param>
+		/// <param name="data">The bytes of the resolved data entry</param>
+		/// <returns><see langword="true"/> when the handle was found and <paramref name="data"/> contains data otherwise <see langword="false"/></returns>
+		public bool TryGetDataByHandle(ulong handle, out byte[] data)
+		{
+			if (this.ContainsDataWithHandle(handle)) 
+			{
+				data = this.GetDataByHandle(handle);
+				return true;
+			}
+			data = null;
+			return false;
+		}
+
+		/// <summary>
 		/// Resolve the bytes of the provided <see cref="DataEntry"/>. 
 		/// If the entry references file blobs, they will be resolved.
 		/// </summary>
