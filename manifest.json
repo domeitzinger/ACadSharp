@@ -334,6 +334,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Classes.IDxfClassDefined.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Classes.IDxfClassDefined.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Classes.IDxfClassDefined",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Classes.IDxfClassDefined.yml\" sourcestartlinenumber=\"1\">Defines a contract for classes that can provide a <xref href=\"ACadSharp.Classes.DxfClass\" data-throw-if-not-resolved=\"false\"></xref> instance.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ACadSharp.Classes.ProxyFlags.yml",
       "output": {
         ".html": {
@@ -863,6 +877,20 @@
       "IsMRef": true,
       "Title": "ACadSharp.Entities.DimensionAngular3Pt",
       "Summary": "<p sourcefile=\"api/ACadSharp.Entities.DimensionAngular3Pt.yml\" sourcestartlinenumber=\"1\">Represents a <xref href=\"ACadSharp.Entities.DimensionAngular3Pt\" data-throw-if-not-resolved=\"false\"></xref> entity.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Entities.DimensionArc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Entities.DimensionArc.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Entities.DimensionArc",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Entities.DimensionArc.yml\" sourcestartlinenumber=\"1\">Represents a <xref href=\"ACadSharp.Entities.DimensionArc\" data-throw-if-not-resolved=\"false\"></xref> entity.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -4114,6 +4142,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.IOrientable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.IOrientable.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.IOrientable",
+      "Summary": "<p sourcefile=\"api/ACadSharp.IOrientable.yml\" sourcestartlinenumber=\"1\">Represents an object that has a three-dimensional orientation.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ACadSharp.IProxy.yml",
       "output": {
         ".html": {
@@ -4758,6 +4800,48 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockAlignmentGrip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockAlignmentGrip.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockAlignmentGrip",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockAlignmentGrip.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKALIGNMENTGRIP object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockAlignmentParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockAlignmentParameter.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockAlignmentParameter",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockAlignmentParameter.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKALIGNMENTPARAMETER object, used in AutoCAD to control the\nalignment in a dynamic block.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockArrayAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockArrayAction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockArrayAction",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockArrayAction.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKARRAYACTION object, used in AutoCAD to control a\narray action in a dynamic block.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockBasePointParameter.yml",
       "output": {
         ".html": {
@@ -4768,7 +4852,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.BlockBasePointParameter",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockBasePointParameter.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKBASEPOINTPARAMETER object, used in AutoCAD to control a\nposition of a point in a dynamic block.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -4796,7 +4880,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.BlockFlipAction",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockFlipAction.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKFLIPACTION object, used in AutoCAD to control a\nflip action in a dynamic block.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -4810,7 +4894,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.BlockFlipGrip",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockFlipGrip.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKFLIPGRIP object.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -4824,7 +4908,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.BlockFlipParameter",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockFlipParameter.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKFLIPPARAMETER object, used in AutoCAD to control a\nflip in a dynamic block.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -4842,17 +4926,31 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockGripExpression.yml",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockGripLocationComponent.yml",
       "output": {
         ".html": {
-          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockGripExpression.html"
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockGripLocationComponent.html"
         }
       },
       "version": "",
       "Uid": null,
       "IsMRef": true,
-      "Title": "ACadSharp.Objects.Evaluations.BlockGripExpression",
-      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockGripExpression.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKGRIPLOCATIONCOMPONENT object.</p>\n"
+      "Title": "ACadSharp.Objects.Evaluations.BlockGripLocationComponent",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockGripLocationComponent.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKGRIPLOCATIONCOMPONENT object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockLinearGrip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockLinearGrip.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockLinearGrip",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockLinearGrip.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKLINEARGRIP object.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -4867,6 +4965,48 @@
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.BlockLinearParameter",
       "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockLinearParameter.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKLINEARPARAMETER object, used in AutoCAD to control a\ndistance between two points in a dynamic block.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockLookupAction.ColumnData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockLookupAction.ColumnData.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockLookupAction.ColumnData",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockLookupAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockLookupAction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockLookupAction",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockLookupAction.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKLOOKUPACTION object, used in AutoCAD to control a\nlookup action in a dynamic block.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockLookupGrip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockLookupGrip.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockLookupGrip",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockLookupGrip.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKLOOKUPGRIP object.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -4926,6 +5066,48 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockPolarGrip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockPolarGrip.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockPolarGrip",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockPolarGrip.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKPOLARGRIP object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockPolarParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockPolarParameter.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockPolarParameter",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockPolarParameter.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKPOLARPARAMETER object, used in AutoCAD to control a\npolar parameter in a dynamic block.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockPolarStretchAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockPolarStretchAction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockPolarStretchAction",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockPolarStretchAction.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKPOLARSTRETCHACTION object, used in AutoCAD to control a\npolar stretch action in a dynamic block.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockRotationAction.yml",
       "output": {
         ".html": {
@@ -4965,6 +5147,34 @@
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.BlockRotationParameter",
       "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockRotationParameter.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKROTATIONPARAMETER object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockScaleAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockScaleAction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockScaleAction",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockStretchAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockStretchAction.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockStretchAction",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockStretchAction.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKSTRETCHACTION object, used in AutoCAD to control a\nstretch action in a dynamic block.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -5021,6 +5231,34 @@
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.BlockXYGrip",
       "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockXYGrip.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKXYGRIP object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.BlockXYParameter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.BlockXYParameter.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.BlockXYParameter",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.BlockXYParameter.yml\" sourcestartlinenumber=\"1\">Represents a BLOCKXYPARAMETER object, used in AutoCAD to control a\nx y in a dynamic block.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.DxfValuePair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.DxfValuePair.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.DxfValuePair",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.Evaluations.DxfValuePair.yml\" sourcestartlinenumber=\"1\">Represents a pair of values used in evaluation expressions, consisting of a code and its corresponding value.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -5094,6 +5332,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.EvaluationGraph.NodeFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.EvaluationGraph.NodeFlags.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.EvaluationGraph.NodeFlags",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ACadSharp.Objects.Evaluations.EvaluationGraph.yml",
       "output": {
         ".html": {
@@ -5146,6 +5398,48 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Objects.Evaluations.ParameterValueSetType",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.StretchActionBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.StretchActionBase.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.StretchActionBase",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.StretchEntityBind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.StretchEntityBind.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.StretchEntityBind",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.Evaluations.StretchNode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.Evaluations.StretchNode.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.Evaluations.StretchNode",
       "Summary": null
     },
     {
@@ -5566,7 +5860,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Objects.MTextAttributeObjectContextData",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.MTextAttributeObjectContextData.yml\" sourcestartlinenumber=\"1\">Represents the context data for the multiline text of an <xref href=\"ACadSharp.Entities.AttributeEntity\" data-throw-if-not-resolved=\"false\"></xref> in a specific annotation scale.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6340,6 +6634,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Objects.WipeoutVariables.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Objects.WipeoutVariables.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Objects.WipeoutVariables",
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.WipeoutVariables.yml\" sourcestartlinenumber=\"1\">Represents a <xref href=\"ACadSharp.Objects.WipeoutVariables\" data-throw-if-not-resolved=\"false\"></xref> object.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/ACadSharp.Objects.XRecord.Entry.yml",
       "output": {
         ".html": {
@@ -6350,7 +6658,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Objects.XRecord.Entry",
-      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.XRecord.Entry.yml\" sourcestartlinenumber=\"1\">Represents a single data entry containing a group code, value, and associated owner within a <xref href=\"ACadSharp.Objects.XRecord\" data-throw-if-not-resolved=\"false\"></xref>.</p>\n"
+      "Summary": "<p sourcefile=\"api/ACadSharp.Objects.XRecord.Entry.yml\" sourcestartlinenumber=\"1\">Represents a single entry in an <xref href=\"ACadSharp.Objects.XRecord\" data-throw-if-not-resolved=\"false\"></xref> object, consisting of a group code and its associated value.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6407,6 +6715,426 @@
       "IsMRef": true,
       "Title": "ACadSharp.OrthographicType",
       "Summary": "<p sourcefile=\"api/ACadSharp.OrthographicType.yml\" sourcestartlinenumber=\"1\">Orthographic type</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataBlobReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataBlobReference.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataBlobReference",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataEntry.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataEntry",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataField.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataField",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataHeader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataHeader",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataIndex.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataIndex",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataIndexEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataIndexEntry.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataIndexEntry",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataIndexEntryPointer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataIndexEntryPointer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataIndexEntryPointer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataStorage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataStorage.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataStorage",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataStoragePointers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataStoragePointers.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataStoragePointers",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.DataValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.DataValue.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.DataValue",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.FileHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.FileHeader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.FileHeader",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.FreeSpaceArea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.FreeSpaceArea.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.FreeSpaceArea",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.PreviousSave.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.PreviousSave.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.PreviousSave",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.Schema.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.Schema.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.Schema",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SchemaIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SchemaIndex.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SchemaIndex",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SchemaProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SchemaProperty.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SchemaProperty",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SchemaPropertyPointer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SchemaPropertyPointer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SchemaPropertyPointer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SchemaSearch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SchemaSearch.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SchemaSearch",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SchemaSearchEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SchemaSearchEntry.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SchemaSearchEntry",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SchemaUnknownProperty.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SchemaUnknownProperty.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SchemaUnknownProperty",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SearchEntryObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SearchEntryObject.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SearchEntryObject",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SegmentHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SegmentHeader.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SegmentHeader",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.SegmentIndexEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.SegmentIndexEntry.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.SegmentIndexEntry",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.Segments.Blob01.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.Segments.Blob01.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.Segments.Blob01",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.Segments.FreeSpace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.Segments.FreeSpace.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.Segments.FreeSpace",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.Segments.IPrototype1bSegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.Segments.IPrototype1bSegment.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.Segments.IPrototype1bSegment",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.Segments.SchemaData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.Segments.SchemaData.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.Segments.SchemaData",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.Segments.SegmentIndex.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.Segments.SegmentIndex.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.Segments.SegmentIndex",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.Segments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.Segments.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b.Segments",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ACadSharp.Prototype1b.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ACadSharp.Prototype1b.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "ACadSharp.Prototype1b",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -6504,7 +7232,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.AppIdsTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.AppIdsTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.AppId\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6518,7 +7246,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.BlockRecordsTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.BlockRecordsTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.BlockRecord\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6532,7 +7260,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.DimensionStylesTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.DimensionStylesTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.DimensionStyle\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6560,7 +7288,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.LayersTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.LayersTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.Layer\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6574,7 +7302,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.LineTypesTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.LineTypesTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.LineType\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6602,7 +7330,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.TextStylesTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.TextStylesTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.TextStyle\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6616,7 +7344,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.UCSTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.UCSTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.UCS\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6630,7 +7358,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.VPortsTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.VPortsTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.VPort\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
@@ -6644,7 +7372,7 @@
       "Uid": null,
       "IsMRef": true,
       "Title": "ACadSharp.Tables.Collections.ViewsTable",
-      "Summary": null
+      "Summary": "<p sourcefile=\"api/ACadSharp.Tables.Collections.ViewsTable.yml\" sourcestartlinenumber=\"1\">Represents a collection of <xref href=\"ACadSharp.Tables.View\" data-throw-if-not-resolved=\"false\"></xref> entries.</p>\n"
     },
     {
       "type": "ManagedReference",
